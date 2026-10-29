@@ -51,7 +51,7 @@ flowchart LR
 | Delivery | Multi-stage Docker build (Alpine), cron, Docker Compose, GitLab CI |
 
 ## My Role
-Backend development within the team: sync logic, image handling and containerised scheduling.
+**Full-Stack Developer** — sync logic, image handling and containerised scheduling.
 
 ## 🔒 Source Code Access
 The source code of this project is kept in a **private GitLab repository** (client / commercial project).

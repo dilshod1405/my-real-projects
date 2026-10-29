@@ -31,7 +31,7 @@ and Hardware (Edge24 box with UPS) — and drives visitors to the [cloud console
 | Delivery | Docker, GitLab CI |
 
 ## My Role
-Frontend team member of the Edge24 product (website and console UI side).
+**Full-Stack Developer** — website implementation alongside the Edge24 console and API work.
 
 ## 🔒 Source Code Access
 The source code of this project is kept in a **private GitLab repository** (client / commercial project).

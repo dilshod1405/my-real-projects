@@ -58,7 +58,7 @@ flowchart LR
 | Delivery | Docker, Docker Compose, Gunicorn, GitLab CI (image build and push) |
 
 ## My Role
-Backend development within the team: API endpoints, integrations, background tasks and Docker-based deployment.
+**Full-Stack Developer** — API endpoints, integrations, background tasks and Docker-based deployment.
 
 ## 🔒 Source Code Access
 The source code of this project is kept in a **private GitLab repository** (client / commercial project).

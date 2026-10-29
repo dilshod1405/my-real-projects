@@ -32,7 +32,7 @@ long, animated landing page.
 | Delivery | Docker, Docker Compose, GitLab CI, pnpm |
 
 ## My Role
-Frontend development within the team (landing page layout, components and responsive behaviour).
+**Full-Stack Developer** — landing page layout, components and responsive behaviour.
 
 ## 🔒 Source Code Access
 The source code of this project is kept in a **private GitLab repository** (client / commercial project).

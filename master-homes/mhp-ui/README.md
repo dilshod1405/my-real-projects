@@ -53,7 +53,7 @@ flowchart LR
 | Delivery | Docker, GitLab CI |
 
 ## My Role
-Frontend development within the team: pages, components, API integration and localisation.
+**Full-Stack Developer** — pages, components, API integration and localisation.
 
 ## 🔒 Source Code Access
 The source code of this project is kept in a **private GitLab repository** (client / commercial project).

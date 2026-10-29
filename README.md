@@ -99,18 +99,18 @@ series of campaign landing pages for off-plan launches with a small e-mail relay
 
 | Project | Description | Stack | Role |
 |---------|-------------|-------|------|
-| [MHP API](master-homes/mhp-api/) | REST backend for listings, off-plan projects, agents, lead forms and a property-transactions database | Python, Django, DRF, PostgreSQL, Redis, Celery, Docker | Backend development |
-| [MHP UI](master-homes/mhp-ui/) | Bilingual public website with property and project catalogue, maps and lead forms | Next.js, React, TypeScript, Tailwind CSS, TanStack Query, next-intl | Frontend development |
-| [MHP CRM](master-homes/mhp-crm/) | Internal tool to search, filter, edit, import and export property-transaction records | React, TypeScript, Vite, Tailwind CSS, shadcn/ui, TanStack Query | Frontend development |
-| [MHC UI](master-homes/mhc-ui/) | Marketing site for the group's contracting and fit-out services company | Next.js, React, TypeScript, Tailwind CSS, Framer Motion | Frontend development |
-| [Off-Plan Landing](master-homes/off-plan-ui/) | API-driven landing page template for off-plan project campaigns | Next.js, React, TypeScript, Tailwind CSS, Leaflet | Frontend development |
-| [PF Service](master-homes/pf-service/) | Go service syncing listings, agents and images from Property Finder | Go, GORM, PostgreSQL, Resty, Docker | Backend development |
-| [DAMAC Islands Landing](master-homes/damac-properties/) | Bilingual campaign page for the DAMAC Islands launch with lead capture | React, Vite, Sass, i18next, Nginx, Docker | Frontend development |
-| [DAMAC Riverside Landing](master-homes/dubailand/) | Bilingual campaign page for DAMAC Riverside with floor plans and EOI forms | React, Vite, Sass, i18next, Nginx, Docker | Frontend development |
-| [Fairmont Downtown Landing](master-homes/fairmont-downtown/) | Campaign page for a Fairmont-branded Downtown Dubai residence | React, Vite, Ant Design, Bootstrap, Sass, Nginx | Frontend development |
-| [Dubai Island Landing](master-homes/dubai-island/) | Campaign page for Ellington Cove on Dubai Islands | React, Vite, Ant Design, Bootstrap, Sass, Nginx | Frontend development |
-| [Ramhan Island Landing](master-homes/ramhan/) | Campaign page for a villa launch on Ramhan Island, Abu Dhabi | React, Vite, Sass, Nginx, Docker | Frontend development |
-| [SMTP Service](master-homes/smtp-service/) | Minimal e-mail relay that delivers landing-page leads | Node.js, Express, Nodemailer, Docker | Backend development |
+| [MHP API](master-homes/mhp-api/) | REST backend for listings, off-plan projects, agents, lead forms and a property-transactions database | Python, Django, DRF, PostgreSQL, Redis, Celery, Docker | Full-Stack Developer |
+| [MHP UI](master-homes/mhp-ui/) | Bilingual public website with property and project catalogue, maps and lead forms | Next.js, React, TypeScript, Tailwind CSS, TanStack Query, next-intl | Full-Stack Developer |
+| [MHP CRM](master-homes/mhp-crm/) | Internal tool to search, filter, edit, import and export property-transaction records | React, TypeScript, Vite, Tailwind CSS, shadcn/ui, TanStack Query | Full-Stack Developer |
+| [MHC UI](master-homes/mhc-ui/) | Marketing site for the group's contracting and fit-out services company | Next.js, React, TypeScript, Tailwind CSS, Framer Motion | Full-Stack Developer |
+| [Off-Plan Landing](master-homes/off-plan-ui/) | API-driven landing page template for off-plan project campaigns | Next.js, React, TypeScript, Tailwind CSS, Leaflet | Full-Stack Developer |
+| [PF Service](master-homes/pf-service/) | Go service syncing listings, agents and images from Property Finder | Go, GORM, PostgreSQL, Resty, Docker | Full-Stack Developer |
+| [DAMAC Islands Landing](master-homes/damac-properties/) | Bilingual campaign page for the DAMAC Islands launch with lead capture | React, Vite, Sass, i18next, Nginx, Docker | Full-Stack Developer |
+| [DAMAC Riverside Landing](master-homes/dubailand/) | Bilingual campaign page for DAMAC Riverside with floor plans and EOI forms | React, Vite, Sass, i18next, Nginx, Docker | Full-Stack Developer |
+| [Fairmont Downtown Landing](master-homes/fairmont-downtown/) | Campaign page for a Fairmont-branded Downtown Dubai residence | React, Vite, Ant Design, Bootstrap, Sass, Nginx | Full-Stack Developer |
+| [Dubai Island Landing](master-homes/dubai-island/) | Campaign page for Ellington Cove on Dubai Islands | React, Vite, Ant Design, Bootstrap, Sass, Nginx | Full-Stack Developer |
+| [Ramhan Island Landing](master-homes/ramhan/) | Campaign page for a villa launch on Ramhan Island, Abu Dhabi | React, Vite, Sass, Nginx, Docker | Full-Stack Developer |
+| [SMTP Service](master-homes/smtp-service/) | Minimal e-mail relay that delivers landing-page leads | Node.js, Express, Nodemailer, Docker | Full-Stack Developer |
 
 
 ## 🏢 IMZA — Dubai Real Estate Agency
@@ -134,10 +134,10 @@ UPS), together with a public marketing website. It is the successor of the earli
 
 | Project | Description | Stack | Role |
 |---|---|---|---|
-| [Edge24 Cloud API](edge24/edge24-cloud-api/) | Control-plane backend managing edges, tunnels, containers, accounts and roles, with WebSocket links to agents | C++20, Drogon, WebSocket, JWT, WireGuard, CMake, Docker | Team member (console/API integration) |
-| [Edge24 Cloud Console](edge24/edge24-cloud-ui/) | Web console with topology map, live device stats, tunnels, containers and agent onboarding | React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Leaflet, Zustand | Frontend (built on the ioEdge panel I started) |
-| [Edge24 Agent](edge24/edge24-agent-api/) | On-device agent that streams host health metrics to the cloud and executes commands (early stage) | C++20, Drogon, WebSocket, QUIC (lsquic), libserialport, CMake | Team member |
-| [Edge24 Website](edge24/edge24-website/) | Marketing landing page presenting cloud, agent and hardware layers, pricing and FAQ | Next.js, React, TypeScript, Tailwind CSS, Framer Motion | Frontend team member |
+| [Edge24 Cloud API](edge24/edge24-cloud-api/) | Control-plane backend managing edges, tunnels, containers, accounts and roles, with WebSocket links to agents | C++20, Drogon, WebSocket, JWT, WireGuard, CMake, Docker | Full-Stack Developer |
+| [Edge24 Cloud Console](edge24/edge24-cloud-ui/) | Web console with topology map, live device stats, tunnels, containers and agent onboarding | React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Leaflet, Zustand | Full-Stack Developer |
+| [Edge24 Agent](edge24/edge24-agent-api/) | On-device agent that streams host health metrics to the cloud and executes commands (early stage) | C++20, Drogon, WebSocket, QUIC (lsquic), libserialport, CMake | Full-Stack Developer |
+| [Edge24 Website](edge24/edge24-website/) | Marketing landing page presenting cloud, agent and hardware layers, pricing and FAQ | Next.js, React, TypeScript, Tailwind CSS, Framer Motion | Full-Stack Developer |
 
 
 ## 📡 ioEdge — Edge Device Management (v1)

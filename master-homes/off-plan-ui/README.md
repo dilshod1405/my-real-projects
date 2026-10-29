@@ -45,7 +45,7 @@ flowchart LR
 | Delivery | Docker, Docker Compose, GitLab CI, pnpm |
 
 ## My Role
-Frontend development within the team: landing page sections, API integration and lead form.
+**Full-Stack Developer** — landing page sections, API integration and lead form.
 
 ## 🔒 Source Code Access
 The source code of this project is kept in a **private GitLab repository** (client / commercial project).

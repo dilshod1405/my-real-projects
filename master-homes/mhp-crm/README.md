@@ -49,7 +49,7 @@ flowchart LR
 | Delivery | Docker, GitLab CI |
 
 ## My Role
-Frontend development within the team: data tables, filters, import/export flows and API integration.
+**Full-Stack Developer** — data tables, filters, import/export flows and API integration.
 
 ## 🔒 Source Code Access
 The source code of this project is kept in a **private GitLab repository** (client / commercial project).

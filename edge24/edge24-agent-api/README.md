@@ -43,7 +43,7 @@ flowchart LR
 | Build / Delivery | CMake, Docker, GitLab CI |
 
 ## My Role
-Member of the Edge24 product team (platform context and integration with the web console that displays agent statistics).
+**Full-Stack Developer** — worked across the stack, integrating the on-device agent with the cloud API and the web console that displays agent statistics.
 
 ## 🔒 Source Code Access
 The source code of this project is kept in a **private GitLab repository** (client / commercial project).

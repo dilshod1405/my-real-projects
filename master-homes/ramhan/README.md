@@ -33,7 +33,7 @@ team by e-mail via [smtp-service](../smtp-service/).
 | Delivery | Docker, Nginx, GitLab CI |
 
 ## My Role
-Frontend development within the team: landing page implementation and lead form.
+**Full-Stack Developer** — landing page implementation and lead form.
 
 ## 🔒 Source Code Access
 The source code of this project is kept in a **private GitLab repository** (client / commercial project).

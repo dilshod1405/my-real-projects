@@ -53,8 +53,7 @@ flowchart LR
 | Delivery | Docker, GitLab CI |
 
 ## My Role
-Member of the Edge24 product team. My work focused on the web console side that consumes this API and on aligning
-the API contract with the earlier ioEdge panel and backend I built.
+**Full-Stack Developer** — API development and the web console that consumes it; aligned the API contract with the earlier ioEdge backend and panel I built.
 
 ## 🔒 Source Code Access
 The source code of this project is kept in a **private GitLab repository** (client / commercial project).

@@ -35,7 +35,7 @@ the sales mailbox through [smtp-service](../smtp-service/). Later campaigns move
 | Delivery | Docker, Nginx, GitLab CI |
 
 ## My Role
-Frontend development within the team: layout, media galleries and lead form integration.
+**Full-Stack Developer** — layout, media galleries and lead form integration.
 
 ## 🔒 Source Code Access
 The source code of this project is kept in a **private GitLab repository** (client / commercial project).

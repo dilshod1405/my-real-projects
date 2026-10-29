@@ -36,7 +36,7 @@ template was reused for [dubailand](../dubailand/).
 | Delivery | Docker, Nginx, GitLab CI |
 
 ## My Role
-Frontend development within the team: page sections, responsive layout, localisation and lead form.
+**Full-Stack Developer** — page sections, responsive layout, localisation and lead form.
 
 ## 🔒 Source Code Access
 The source code of this project is kept in a **private GitLab repository** (client / commercial project).

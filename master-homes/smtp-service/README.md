@@ -40,7 +40,7 @@ flowchart LR
 | Delivery | Docker, GitLab CI |
 
 ## My Role
-Backend development and deployment of the relay service.
+**Full-Stack Developer** — development and deployment of the relay service.
 
 ## 🔒 Source Code Access
 The source code of this project is kept in a **private GitLab repository** (client / commercial project).

@@ -32,7 +32,7 @@ sales team by e-mail (see [smtp-service](../smtp-service/)).
 | Delivery | Docker, Nginx, GitLab CI |
 
 ## My Role
-Frontend development within the team: page sections and lead form.
+**Full-Stack Developer** — page sections and lead form.
 
 ## 🔒 Source Code Access
 The source code of this project is kept in a **private GitLab repository** (client / commercial project).

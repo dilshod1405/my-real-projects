@@ -46,8 +46,7 @@ flowchart LR
 | Delivery | Docker, docker-compose, GitLab CI |
 
 ## My Role
-Frontend: the console builds on the ioEdge panel codebase I started (layout, auth flow, edge tree, map view);
-contributed within the Edge24 team.
+**Full-Stack Developer** — the console builds on the ioEdge panel codebase I started (layout, auth flow, edge tree, map view), connected to the Edge24 cloud API.
 
 ## 🔒 Source Code Access
 The source code of this project is kept in a **private GitLab repository** (client / commercial project).

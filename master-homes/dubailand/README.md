@@ -34,7 +34,7 @@ leads that are e-mailed to the sales team through [smtp-service](../smtp-service
 | Delivery | Docker, Nginx, GitLab CI |
 
 ## My Role
-Frontend development within the team: content sections, localisation and lead capture.
+**Full-Stack Developer** — content sections, localisation and lead capture.
 
 ## 🔒 Source Code Access
 The source code of this project is kept in a **private GitLab repository** (client / commercial project).
